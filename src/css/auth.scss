@@ -1,0 +1,22 @@
+.sign-up-form {
+    background-color: rgb(220, 225, 225);
+    margin-top: 10px;
+    border-radius: 10px;
+    .heanding {
+        text-align: center;
+        font-size: 24px;
+        font-weight: 600px;
+    }
+
+    Label {
+        margin-top: 5px;
+        font-size: 14px;
+    }
+    .footer {
+        margin-top: 10px;
+
+        .sign-up-btn {
+            margin: 10px 10px;
+        }
+    }
+}

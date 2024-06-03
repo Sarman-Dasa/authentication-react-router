@@ -1,0 +1,20 @@
+.sign-up-form {
+  background-color: rgb(220, 225, 225);
+  margin-top: 10px;
+  border-radius: 10px;
+}
+.sign-up-form .heanding {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600px;
+}
+.sign-up-form Label {
+  margin-top: 5px;
+  font-size: 14px;
+}
+.sign-up-form .footer {
+  margin-top: 10px;
+}
+.sign-up-form .footer .sign-up-btn {
+  margin: 10px 10px;
+}/*# sourceMappingURL=auth.css.map */
